@@ -36,7 +36,7 @@ public class AnanasHomePage2 extends BaseHelper
     }
 
 
-   public void homePage()
+   public void homePage2()
    {
      navigateToHomePage();
      clickOnSignInButton();

@@ -38,6 +38,7 @@ public class AnanasLogInPage extends BaseHelper
 
     private void clickOnPrijaviSe()
 
+
     {
       loginSubmit.click();
     }

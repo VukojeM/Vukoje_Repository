@@ -21,7 +21,7 @@ public void ananasLogInTest() throws InterruptedException
           String resultMessage = "Email ili lozinka nisu u redu.";
 
     AnanasHomePage2 homepageObject = new AnanasHomePage2(driver);
-          homepageObject.homePage();
+          homepageObject.homePage2();
 
         AnanasLogInPage logInObject = new AnanasLogInPage(driver);
         logInObject.logInWithInvalidCredentials(email,passwordterm);
